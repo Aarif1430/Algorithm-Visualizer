@@ -4,4 +4,4 @@ Algorithm Visualizer using JavaScript and Python
 1. JavaScript
 2. Python
 
-(https://imgur.com/fMswJM9)
+![](https://i.imgur.com/fMswJM9.gif)
